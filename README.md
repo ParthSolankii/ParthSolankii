@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋 I'm Parth Solanki</h1>
-<h3 align="center">A Passionate Flutter Developer 
+<h3 align="center">A Passionate Flutter Developer 💙
 </h3>
 
 # 💫 About Me:
