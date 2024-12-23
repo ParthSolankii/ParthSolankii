@@ -8,7 +8,7 @@
 - 🌱 Learning Python and AI technologies
 - 💬 Feel free to ask me anything
 - 📤 Reach out to me at [solankiprince1122@gmail.com](mailto:solankiprince1122@gmail.com)
-- 📑 Check out my work: [Projects]()
+# - 📑 Check out my work: [Projects]()
 - 🌐 Connect with me on [LinkedIn][1]
 
 [1]: http://www.linkedin.com/in/iparthsolanki
